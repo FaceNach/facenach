@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
+<p align="center">
   <b>Backend Developer</b> — REST APIs · Automation · System Integration
 </p>
 
@@ -53,14 +57,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=facenach&theme=tokyonight&hide_border=true" />
 </p>
 
-
-  Animated contribution graph (bubble-shooter style).
-  1) Generate your SVG at https://man0dya.github.io/Readme-Contribution-Graph-Generator (username: facenach)
-  2) Save it as "github-contribution-animation.svg" in the root of this repo
-  3) Uncomment the line below
-
- <p align="center">
-  <img src="github-contribution-animation.svg" alt="My Contribution Animation" />
+<!-- Classic snake eating the contribution graph -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/facenach/facenach/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/facenach/facenach/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/facenach/facenach/output/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
