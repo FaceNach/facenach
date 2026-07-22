@@ -67,7 +67,7 @@ Backend-focused developer building REST APIs, automation workflows, and database
   <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=claudecode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white"/>
 </p>
 
