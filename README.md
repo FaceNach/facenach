@@ -19,10 +19,10 @@
 
 ### 👋 About me
 
-Backend-focused developer building REST APIs, automation workflows, and database-backed systems.
+Backend developer building APIs, automation workflows, and database-backed systems.
 
 - 🔧 Freelance backend work — API integrations, middleware, and system stabilization
-- 🎮 Background in game development (Unity & Unreal Engine)
+- 🕹️ Cut my teeth on gameplay systems in Unity/Unreal before moving into backend — still shows up in how I think about performance
 - 🤖 Comfortable working with AI-assisted dev workflows day to day
 - 🌱 Always picking up something new on the backend/infra side
 
