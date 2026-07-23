@@ -8,6 +8,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignaciogunst"><img src="https://img.shields.io/badge/-LinkedIn-0f172a?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:ignacioijg@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -79,17 +82,3 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
 </p>
 
 ---
-
-## ☕ Support Me
-
-<p align="center">
-  If you like what I do, maybe consider buying me a coffee/tea.
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=90&section=footer" alt="Footer" />
-</p>
