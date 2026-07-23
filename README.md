@@ -68,15 +68,6 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
   <img src="https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Claude%20Code-0f172a?style=flat-square&logo=claudecode&logoColor=white" alt="Claude Code" />
 </p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=facenach&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
 ---
 
 ## 📈 Activity
