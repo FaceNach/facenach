@@ -71,7 +71,15 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
 
 ---
 
-## 📈 This Week, I Spent My Time On:
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facenach&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Activity
 
 <p align="center">
   <picture>
