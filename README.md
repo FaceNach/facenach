@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ignaciogunst"><img src="https://img.shields.io/badge/-LinkedIn-0f172a?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ignaciogunst"><img src="https://img.shields.io/badge/-LinkedIn-0f172a?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,9 +22,9 @@
 
 </div>
 
-I got my start on the gaming side, building systems in Unity and Unreal — that's still part of how I think about performance and design today. Somewhere along el camino el backend me atrapó, y ahora es la mayor parte de lo que hago. Diseñar APIs, automatizar procesos, y conectar sistemas que no estaban pensados para hablar entre sí.
+I got my start on the gaming side, building systems in Unity and Unreal — that's still part of how I think about performance and design today. Somewhere along the way backend work pulled me in, and now it's most of what I do. Designing APIs, automating processes, and gluing together systems that weren't built to talk to each other.
 
-Las herramientas de IA son parte habitual de mi trabajo diario, y siempre estoy probando algo nuevo del lado de infraestructura.
+AI tools are a regular part of how I work day to day, and I'm usually poking at something new on the infrastructure side.
 
 ---
 
@@ -32,52 +32,52 @@ Las herramientas de IA son parte habitual de mi trabajo diario, y siempre estoy 
 
 ### 🛠️ Tech Stack
 
-<sub>Languages & Backend</sub>
+**Languages & Backend**
 <br>
-<img src="https://img.shields.io/badge/Go-0f172a?style=flat-square&logo=go&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/C%23-0f172a?style=flat-square&logo=csharp&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/.NET-0f172a?style=flat-square&logo=dotnet&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8" height="42">
+<img src="https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/.NET-0f172a?style=for-the-badge&logo=dotnet&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8">
 
 <br><br>
 
-<sub>Frontend</sub>
+**Frontend**
 <br>
-<img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/Astro-0f172a?style=flat-square&logo=astro&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=38bdf8" height="42">
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/Astro-0f172a?style=for-the-badge&logo=astro&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8">
 
 <br><br>
 
-<sub>Databases & Messaging</sub>
+**Databases & Messaging**
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/RabbitMQ-0f172a?style=flat-square&logo=rabbitmq&logoColor=38bdf8" height="42">
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/RabbitMQ-0f172a?style=for-the-badge&logo=rabbitmq&logoColor=38bdf8">
 
 <br><br>
 
-<sub>DevOps & Infra</sub>
+**DevOps & Infra**
 <br>
-<img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=flat-square&logo=githubactions&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/NGINX-0f172a?style=flat-square&logo=nginx&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/Grafana-0f172a?style=flat-square&logo=grafana&logoColor=38bdf8" height="42">
+<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/NGINX-0f172a?style=for-the-badge&logo=nginx&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/Grafana-0f172a?style=for-the-badge&logo=grafana&logoColor=38bdf8">
 
 <br><br>
 
-<sub>Tools & Workflow</sub>
+**Tools & Workflow**
 <br>
-<img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/Swagger-0f172a?style=flat-square&logo=swagger&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=38bdf8" height="42">
-<img src="https://img.shields.io/badge/Claude%20Code-0f172a?style=flat-square&logo=claudecode&logoColor=38bdf8" height="42">
+<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/Swagger-0f172a?style=for-the-badge&logo=swagger&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/n8n-0f172a?style=for-the-badge&logo=n8n&logoColor=38bdf8">
+<img src="https://img.shields.io/badge/Claude%20Code-0f172a?style=for-the-badge&logo=claudecode&logoColor=38bdf8">
 
 </div>
 
