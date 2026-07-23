@@ -40,7 +40,7 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
 <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8">
 <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8">
 
-<br><br>
+<br>
 
 **Frontend**
 <br>
@@ -50,7 +50,7 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
 <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38bdf8">
 <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8">
 
-<br><br>
+<br>
 
 **Databases & Messaging**
 <br>
@@ -60,7 +60,7 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
 <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=38bdf8">
 <img src="https://img.shields.io/badge/RabbitMQ-0f172a?style=for-the-badge&logo=rabbitmq&logoColor=38bdf8">
 
-<br><br>
+<br>
 
 **DevOps & Infra**
 <br>
@@ -70,7 +70,7 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
 <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8">
 <img src="https://img.shields.io/badge/Grafana-0f172a?style=for-the-badge&logo=grafana&logoColor=38bdf8">
 
-<br><br>
+<br>
 
 **Tools & Workflow**
 <br>
