@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c67139,100:7a8a5e&height=160&section=header&text=Hi%20there,%20I'm%20Ignacio&fontSize=42&fontColor=f5ead8&fontAlignY=38&fontFamily=Caprasimo&animation=fadeIn" alt="Header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:172033,50:243B55,100:35506F&height=160&section=header&text=Hi%20there,%20I'm%20Ignacio&fontSize=42&fontColor=D2AE6D&fontAlignY=38&fontFamily=Caprasimo&animation=fadeIn"
+    alt="Header"
+  />
 </p>
 
 <p align="center">
@@ -9,9 +12,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ignaciogunst"><img src="https://img.shields.io/badge/-LinkedIn-643312?style=for-the-badge&logo=Linkedin&logoColor=f5ead8" /></a>
-  <a href="mailto:ignacioijg@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/ignaciogunst">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-243B55?style=for-the-badge&logo=linkedin&logoColor=D2AE6D"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://ignaciogunst.dev">
+    <img
+      src="https://img.shields.io/badge/Portfolio-D2AE6D?style=for-the-badge&logo=astro&logoColor=172033"
+      alt="Portfolio"
+    />
   </a>
 </p>
 
@@ -25,50 +36,64 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
 
 <br />
 
-## Languages and Tools
+## Tech Stack
 
-<p align="left">
-  <!-- Languages & Backend -->
-  <img src="https://img.shields.io/badge/Go-643312?style=flat-square&logo=go&logoColor=f5ead8" alt="Go" />
-  <img src="https://img.shields.io/badge/C%23-643312?style=flat-square&logo=csharp&logoColor=f5ead8" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-643312?style=flat-square&logo=dotnet&logoColor=f5ead8" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-643312?style=flat-square&logo=nodedotjs&logoColor=f5ead8" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-643312?style=flat-square&logo=typescript&logoColor=f5ead8" alt="TypeScript" />
+<p>
+  <b>Backend</b><br>
+  <img src="https://img.shields.io/badge/Go-243B55?style=for-the-badge&logo=go&logoColor=D2AE6D" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-243B55?style=for-the-badge&logo=csharp&logoColor=D2AE6D" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-243B55?style=for-the-badge&logo=dotnet&logoColor=D2AE6D" alt=".NET" />
+  <img src="https://img.shields.io/badge/Node.js-243B55?style=for-the-badge&logo=nodedotjs&logoColor=D2AE6D" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-243B55?style=for-the-badge&logo=supabase&logoColor=D2AE6D" alt="Supabase" />
+  <img src="https://img.shields.io/badge/RabbitMQ-243B55?style=for-the-badge&logo=rabbitmq&logoColor=D2AE6D" alt="RabbitMQ" />
+</p>
 
-  <br />
+<p>
+  <b>Frontend</b><br>
+  <img src="https://img.shields.io/badge/TypeScript-243B55?style=for-the-badge&logo=typescript&logoColor=D2AE6D" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-243B55?style=for-the-badge&logo=javascript&logoColor=D2AE6D" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-243B55?style=for-the-badge&logo=react&logoColor=D2AE6D" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-243B55?style=for-the-badge&logo=nextdotjs&logoColor=D2AE6D" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-243B55?style=for-the-badge&logo=astro&logoColor=D2AE6D" alt="Astro" />
+  <img src="https://img.shields.io/badge/HTML5-243B55?style=for-the-badge&logo=html5&logoColor=D2AE6D" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-243B55?style=for-the-badge&logo=css3&logoColor=D2AE6D" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind-243B55?style=for-the-badge&logo=tailwindcss&logoColor=D2AE6D" alt="Tailwind CSS" />
+</p>
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-643312?style=flat-square&logo=javascript&logoColor=f5ead8" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-643312?style=flat-square&logo=react&logoColor=f5ead8" alt="React" />
-  <img src="https://img.shields.io/badge/Astro-643312?style=flat-square&logo=astro&logoColor=f5ead8" alt="Astro" />
-  <img src="https://img.shields.io/badge/HTML5-643312?style=flat-square&logo=html5&logoColor=f5ead8" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-643312?style=flat-square&logo=css3&logoColor=f5ead8" alt="CSS3" />
+<p>
+  <b>Databases</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-243B55?style=for-the-badge&logo=postgresql&logoColor=D2AE6D" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-243B55?style=for-the-badge&logo=mysql&logoColor=D2AE6D" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-243B55?style=for-the-badge&logo=sqlite&logoColor=D2AE6D" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-243B55?style=for-the-badge&logo=mongodb&logoColor=D2AE6D" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-243B55?style=for-the-badge&logo=redis&logoColor=D2AE6D" alt="Redis" />
+  <img src="https://img.shields.io/badge/ChromaDB-243B55?style=for-the-badge&logoColor=D2AE6D" alt="ChromaDB" />
+</p>
 
-  <br />
+<p>
+  <b>DevOps & Tools</b><br>
+  <img src="https://img.shields.io/badge/Docker-243B55?style=for-the-badge&logo=docker&logoColor=D2AE6D" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-243B55?style=for-the-badge&logo=kubernetes&logoColor=D2AE6D" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-243B55?style=for-the-badge&logo=git&logoColor=D2AE6D" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-243B55?style=for-the-badge&logo=githubactions&logoColor=D2AE6D" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/NGINX-243B55?style=for-the-badge&logo=nginx&logoColor=D2AE6D" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Grafana-243B55?style=for-the-badge&logo=grafana&logoColor=D2AE6D" alt="Grafana" />
+  <img src="https://img.shields.io/badge/n8n-243B55?style=for-the-badge&logo=n8n&logoColor=D2AE6D" alt="n8n" />
+  <img src="https://img.shields.io/badge/Swagger-243B55?style=for-the-badge&logo=swagger&logoColor=D2AE6D" alt="Swagger" />
+</p>
 
-  <!-- Databases & Messaging -->
-  <img src="https://img.shields.io/badge/PostgreSQL-643312?style=flat-square&logo=postgresql&logoColor=f5ead8" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-643312?style=flat-square&logo=mysql&logoColor=f5ead8" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-643312?style=flat-square&logo=mongodb&logoColor=f5ead8" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-643312?style=flat-square&logo=redis&logoColor=f5ead8" alt="Redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-643312?style=flat-square&logo=rabbitmq&logoColor=f5ead8" alt="RabbitMQ" />
+<p>
+  <b>AI</b><br>
+  <img src="https://img.shields.io/badge/Ollama-243B55?style=for-the-badge&logo=ollama&logoColor=D2AE6D" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Claude%20Code-243B55?style=for-the-badge&logo=anthropic&logoColor=D2AE6D" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-243B55?style=for-the-badge&logo=openai&logoColor=D2AE6D" alt="Codex" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-243B55?style=for-the-badge&logo=githubcopilot&logoColor=D2AE6D" alt="GitHub Copilot" />
+</p>
 
-  <br />
-
-  <!-- DevOps & Infra -->
-  <img src="https://img.shields.io/badge/Docker-643312?style=flat-square&logo=docker&logoColor=f5ead8" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-643312?style=flat-square&logo=githubactions&logoColor=f5ead8" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/NGINX-643312?style=flat-square&logo=nginx&logoColor=f5ead8" alt="NGINX" />
-  <img src="https://img.shields.io/badge/Linux-643312?style=flat-square&logo=linux&logoColor=f5ead8" alt="Linux" />
-  <img src="https://img.shields.io/badge/Grafana-643312?style=flat-square&logo=grafana&logoColor=f5ead8" alt="Grafana" />
-
-  <br />
-
-  <!-- Tools & Workflow -->
-  <img src="https://img.shields.io/badge/Git-643312?style=flat-square&logo=git&logoColor=f5ead8" alt="Git" />
-  <img src="https://img.shields.io/badge/Swagger-643312?style=flat-square&logo=swagger&logoColor=f5ead8" alt="Swagger" />
-  <img src="https://img.shields.io/badge/n8n-643312?style=flat-square&logo=n8n&logoColor=f5ead8" alt="n8n" />
-  <img src="https://img.shields.io/badge/Claude%20Code-643312?style=flat-square&logo=claudecode&logoColor=f5ead8" alt="Claude Code" />
+<p>
+  <b>Other</b><br>
+  <img src="https://img.shields.io/badge/Unity-243B55?style=for-the-badge&logo=unity&logoColor=D2AE6D" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-243B55?style=for-the-badge&logo=unrealengine&logoColor=D2AE6D" alt="Unreal Engine" />
 </p>
 
 <br />
@@ -77,8 +102,17 @@ AI tools are a regular part of how I work day to day, and I'm usually poking at 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/facenach/facenach/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/facenach/facenach/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/facenach/facenach/output/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/facenach/facenach/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/facenach/facenach/output/github-snake.svg"
+    />
+    <img
+      alt="github-snake"
+      src="https://raw.githubusercontent.com/facenach/facenach/output/github-snake.svg"
+    />
   </picture>
 </p>
